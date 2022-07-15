@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
    
+![Note Taker](src/demo.webm)
+
 <h4>Designed and coded by <a href="https://github.com/Ahsan-Zaidi">Ahsan Zaidi</a></h4> 
 
 
